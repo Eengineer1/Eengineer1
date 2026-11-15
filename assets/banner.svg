@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Tasos Derisiotis</title>
+  <desc id="desc">Identity, cryptography and payments. Rust, Go, TypeScript and Solidity.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e30"/><stop offset="1" stop-color="#07121e"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#294158" stroke-opacity=".24"/></pattern>
+    <linearGradient id="line"><stop stop-color="#6ee7c5"/><stop offset="1" stop-color="#719bf7"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="16" fill="url(#grid)"/>
+  <rect x="48" y="48" width="36" height="4" rx="2" fill="#6ee7c5"/>
+  <text x="98" y="55" font-family="monospace" font-size="14" letter-spacing="3" fill="#9cb1c5">EENGINEER1 / ENGINEERING</text>
+  <text x="48" y="133" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#f2f7fc">Tasos Derisiotis</text>
+  <text x="50" y="182" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#c0d1e1">Identity. Cryptography. Payments.</text>
+  <text x="50" y="222" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#92a9bf">From protocol logic to developer tools and live services.</text>
+  <g font-family="monospace" font-size="15" fill="#b9d2e5" text-anchor="middle">
+    <rect x="48" y="270" width="80" height="36" rx="6" fill="#152a3b" stroke="#2c4c60"/><text x="88" y="293">Rust</text>
+    <rect x="140" y="270" width="64" height="36" rx="6" fill="#152a3b" stroke="#2c4c60"/><text x="172" y="293">Go</text>
+    <rect x="216" y="270" width="142" height="36" rx="6" fill="#152a3b" stroke="#2c4c60"/><text x="287" y="293">TypeScript</text>
+    <rect x="370" y="270" width="122" height="36" rx="6" fill="#152a3b" stroke="#2c4c60"/><text x="431" y="293">Solidity</text>
+  </g>
+  <g fill="none" stroke="url(#line)" stroke-width="1.5">
+    <path d="M890 83 1036 126 1070 253 920 287 819 196Z" opacity=".45"/>
+    <path d="m890 83 30 204m116-161-217 70m251 57L890 83m30 204 116-161" opacity=".25"/>
+    <path d="m890 83 33 99 113-56m-217 70 104-14 147 71m-150 34 3-105" opacity=".65"/>
+    <circle cx="923" cy="182" r="38" fill="#102637"/>
+    <circle cx="923" cy="182" r="52" stroke-dasharray="3 9" opacity=".4"/>
+  </g>
+  <g fill="#6ee7c5"><circle cx="890" cy="83" r="5"/><circle cx="819" cy="196" r="5"/><circle cx="920" cy="287" r="5"/></g>
+  <g fill="#8baef9"><circle cx="1036" cy="126" r="5"/><circle cx="1070" cy="253" r="5"/></g>
+  <path d="m909 181 10 10 20-22" fill="none" stroke="#6ee7c5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
